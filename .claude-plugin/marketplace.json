@@ -1,0 +1,16 @@
+{
+  "name": "iturnier-plugins",
+  "description": "iTurnier tournament organization plugin with remote MCP access and shared instructions.",
+  "owner": {
+    "name": "Tim Vallandi Webentwicklung",
+    "email": "info@iturnier.de"
+  },
+  "plugins": [
+    {
+      "name": "iturnier",
+      "source": "./",
+      "description": "Turniere, Teams, Spielplan, Anmeldung, Aufgaben und Seiten in iTurnier organisieren. Verbindet dein Konto über OAuth und respektiert deine Rolle sowie die gewählten Rechte. Erfordert iTurnier Pro oder Zugang über einen Verein mit Tarif Verein. Kein Zugriff auf gespeicherte Kader, Kontaktlisten oder Zahlungsdaten; keine Änderung von Live-Ergebnissen.",
+      "version": "1.2.0"
+    }
+  ]
+}

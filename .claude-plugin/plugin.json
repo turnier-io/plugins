@@ -1,0 +1,22 @@
+{
+  "name": "iturnier",
+  "version": "1.2.0",
+  "description": "Turniere, Teams, Spielplan, Anmeldung, Aufgaben und Seiten in iTurnier organisieren. Verbindet dein Konto über OAuth und respektiert deine Rolle sowie die gewählten Rechte. Erfordert iTurnier Pro oder Zugang über einen Verein mit Tarif Verein. Kein Zugriff auf gespeicherte Kader, Kontaktlisten oder Zahlungsdaten; keine Änderung von Live-Ergebnissen.",
+  "author": {
+    "name": "Tim Vallandi Webentwicklung",
+    "email": "info@iturnier.de",
+    "url": "https://iturnier.de"
+  },
+  "homepage": "https://hilfe.iturnier.de/verein-konto/ki-verbindungen",
+  "keywords": [
+    "iturnier",
+    "tournament",
+    "football",
+    "sports",
+    "club"
+  ],
+  "repository": "https://github.com/timvallandi/iturnier-plugins",
+  "displayName": "iTurnier",
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://iturnier.de/datenschutz"
+}

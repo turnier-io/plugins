@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "iturnier": {
+      "type": "http",
+      "url": "https://iturnier.de/mcp"
+    }
+  }
+}
