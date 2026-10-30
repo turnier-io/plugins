@@ -1,15 +1,15 @@
 ---
 name: iturnier-turnierorganisation
-description: "Organisiert Fußball- und Sportturniere in iTurnier über den iTurnier-MCP-Server: Turniere anlegen, Teams und Kader, Spielplan, Online-Anmeldung, Einladungen, Aufgaben sowie Turnier- und Vereinsseite. Verwenden, wenn der Nutzer ein Turnier plant oder iTurnier-Daten ändern möchte."
+description: "Organisiert Fußball- und Sportturniere in turnier.io über den turnier.io-MCP-Server: Turniere anlegen, Teams und Kader, Spielplan, Online-Anmeldung, Einladungen, Aufgaben sowie Turnier- und Vereinsseite. Verwenden, wenn der Nutzer ein Turnier plant oder turnier.io-Daten ändern möchte."
 ---
 
-# iTurnier-Turnierorganisation
+# turnier.io-Turnierorganisation
 
-Voraussetzung: Der iTurnier-MCP-Server ist verbunden (https://iturnier.de/mcp, Anmeldung mit dem iTurnier-Konto, Tarif Pro oder Verein).
+Voraussetzung: Der turnier.io-MCP-Server ist verbunden (https://turnier.io/mcp, Anmeldung mit dem turnier.io-Konto, Tarif Pro oder Verein).
 
 ## Grundregeln
 
-iTurnier organisiert Fußball- und Sportturniere von Vereinen. Mit diesen Werkzeugen planst du Turniere, Teams, Spielplan, Anmeldung, Einladungen, Aufgaben sowie Turnier- und Vereinsseite.
+turnier.io organisiert Fußball- und Sportturniere von Vereinen. Mit diesen Werkzeugen planst du Turniere, Teams, Spielplan, Anmeldung, Einladungen, Aufgaben sowie Turnier- und Vereinsseite.
 
 - Rufe zuerst `konto_kontext` auf, danach `turniere_auflisten`. Arbeite immer mit IDs aus den Antworten.
 - Personenbezogene Daten (Spieler, Trainer, Ansprechpartner, Kontakte aus Anmeldungen, Empfänger) sind über diese Verbindung nicht lesbar. Du kannst sie anlegen, siehst danach aber nur Anzahlen. Frage nicht danach und rate sie nicht.
