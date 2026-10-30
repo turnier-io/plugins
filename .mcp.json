@@ -2,7 +2,7 @@
   "mcpServers": {
     "iturnier": {
       "type": "http",
-      "url": "https://iturnier.de/mcp"
+      "url": "https://turnier.io/mcp"
     }
   }
 }
